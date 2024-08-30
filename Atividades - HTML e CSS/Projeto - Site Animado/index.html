@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=7">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="description" content="Este trabalho tem como objetivo aplicar os conhecimentos adquiridos em aula sobre as principais tags e funções no HTML. A proposta é criar uma página simples com um efeito.">
+    <meta name="keywords" content="Site, Efeito">
+    <meta name="author" content="Elaine Cristina dos Santos">
+    <meta name="robots" content="index,all">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css"/>
+    <title>Site Animado</title>
+</head>
+<body>
+    <!-- Cabeçalho-->
+    <header>
+        <a href="#" class="logo">
+            <img src="img/logo.png" alt="Logo do PlayStation">
+        </a>
+        <ul class="navlist">
+            <li><a href="#" class="ativo">Consoles</li>
+            <li><a href="#">Comprar</li>
+            <li><a href="#">Controles</li>
+            <li><a href="#">Preços</li>
+            <li><a href="#">Contatos</li>
+        </ul>
+        <div class="h-main">
+            <a href="#" class="h-botao">Logue-se</a>
+        </div>
+    </header>
+    <!-- seção Hero (h) -->
+     <section class="hero">
+        <div class="texto-hero">
+            <h1 data-aos="fade-right" data-aos-duration="1500">DualShock</h1>
+            <p data-aos="fade-left" data-aos-duration="1400" data-aos-delay="200">Shop for DualSense wireless controller in a range of colors, styles,<br>and limited editions, and enjoy free standard delivery with every order,<br> plus many more benefitis of shopping direct from Playstation.</p>
+            <a href="#" class="h-botao" data-aos="fade-left" data-aos-duration="1400" data-aos-delay="200">Compre agora</a>
+            <a href="#" class="m-botao" data-aos="fade-left" data-aos-duration="1400" data-aos-delay="200">Mais produtos</a>
+        </div>
+        <div class="hero-img">
+            <img src="img/bolha.png" class="bolha" alt="bolha">
+            <img src="img/controle.png" class="controle" alt="Controle">
+        </div>
+     </section>
+     <!--Script da animação-->
+     <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+     <script>
+        AOS.init({
+            offset: 1
+        });
+     </script>
+</body>
+</html>

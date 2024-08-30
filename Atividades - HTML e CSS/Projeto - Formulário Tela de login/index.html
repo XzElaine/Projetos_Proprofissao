@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=7">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="description" content="Este trabalho tem como objetivo aplicar os conhecimentos adquiridos em aula sobre as principais tags e funções no HTML. A proposta é criar uma página de formulário para que o usuário possa se logar.">
+    <meta name="keywords" content="Fomrulário, Login, Entrar">
+    <meta name="author" content="Elaine Cristina dos Santos">
+    <meta name="robots" content="index,all">
+    <link rel="stylesheet" href="style.css">
+  <title>Formulário de Login</title>
+</head>
+<body>
+  <div class="login_form">
+    <form action="#">
+      <h3>Entrar com</h3>
+
+      <div class="login_option">
+
+        <div class="option">
+          <a href="#">
+            <img src="img/google.png" alt="Google"/>
+            <span>Google</span>
+          </a>
+        </div>
+
+        <div class="option">
+          <a href="#">
+            <img src="img/apple.png" alt="Apple"/>
+            <span>Apple</span>
+          </a>
+        </div>
+      </div>
+
+      <p class="separator">
+        <span>ou</span>
+      </p>
+
+      <div class="input_box">
+        <label for="email">Email</label>
+        <input type="email" id="email" placeholder="Insira seu endereço de email" required />
+      </div>
+
+      <div class="input_box">
+        <div class="password_title">
+          <label for="password">Senha</label>
+          <a href="#">Esqueceu sua senha?</a>
+        </div>
+
+        <input type="password" id="password" placeholder="Insira sua senha" required />
+      </div>
+      <button type="submit">Entrar</button>
+
+      <p class="sign_up">Não possui uma conta? <a href="#">Cadastre-se</a></p>
+    </form>
+  </div>
+</body>
+</html>
