@@ -1,4 +1,4 @@
-# Este repositório foi criado com o intuito de compartilhar todos os projetos realizados no curso Proprofissão, ministrado pelo Instituto Proa.
+## Este repositório foi criado com o intuito de compartilhar todos os projetos realizados no curso Proprofissão, ministrado pelo Instituto Proa.
 
 ## Principais conteúdos abordados:
 1. Prototipação e UX | UI: Nessa matéria realizamos a prototipação de 10 projetos utilizando a ferramenta Figma.
