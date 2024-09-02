@@ -18,7 +18,7 @@
 
 /* Body */
 body{
-    background-image: url(img/fundo.png);
+    background-image: url(../img/fundo.png);
     color: var(--white-color);
     background-repeat: no-repeat;
     background-size: cover;
