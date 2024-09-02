@@ -11,7 +11,7 @@
 :root {
     --black-color: #000000;
     --white-color: #ffffff;
-    --backgroud-color: linear-gradient(45deg, #7375fc, #d3afdb);
+    --background-color: linear-gradient(45deg, #7375fc, #d3afdb);
     --fonte-grande: 4.5rem;
     --p-fonte: 0.8rem;
 }
