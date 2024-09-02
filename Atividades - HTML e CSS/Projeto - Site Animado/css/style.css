@@ -21,7 +21,7 @@ body{
     background-image: url(img/fundo.png);
     color: var(--white-color);
     background-repeat: no-repeat;
-    background-size: cover; /* Ajusta a imagem ao tamanho da tela */
+    background-size: cover;
     background-position: center;
     overflow: hidden;  
 }
