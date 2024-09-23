@@ -1,0 +1,5 @@
+let anos = parseInt(prompt("Digite a quantidade de anos vividos: "))
+let meses = parseInt(prompt("Digite a quantidade de meses que passaram desde o seu último aniversário: "))
+let dias = parseInt(prompt("Digite a quantidade de dias que se passaram desde o seu último mesversário: "))
+total_dias = (anos*365) + (dias*30)
+alert("A idade expressa emm dias é: " + total_dias)
