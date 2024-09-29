@@ -15,6 +15,6 @@ Inicio
   escreval("Digite a quantidade de reais que deseja converter: ")
   leia(quantidade_reais)
   valorEmDolares <- quantidade_reais / cotacaoDolar
-  escreval("O valor da conversão em reais é: R$", valorEmDolares:2:2)
+  escreval("O valor da conversão em dolares é: R$", valorEmDolares:2:2)
 
 Fimalgoritmo

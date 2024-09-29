@@ -3,8 +3,8 @@ let ano_nascimento = parseInt(prompt("Digite o ano de nascimento: "))
 let ano_ingresso = parseInt(prompt("Digite o ano de ingresso na empresa: "))
 let ano_atual = parseInt(prompt("Digite o ano atual: "))
 
-idade = ano_atual - ano_nascimento
-tempo_trabalho = ano_atual - ano_ingresso
+let idade = ano_atual - ano_nascimento
+let tempo_trabalho = ano_atual - ano_ingresso
 
 alert("Idade do funcionário: " + idade + " anos")
 alert("Tempo de trabalho: " + tempo_trabalho + " anos")

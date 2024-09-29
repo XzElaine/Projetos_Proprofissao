@@ -1,7 +1,7 @@
 Algoritmo "Somatoria_Fatoriais"
 // Disciplina   : Lógica de Programação com JavaScript
 // Professor   : Jailson Costa dos Santos 
-// Descrição   : O porgrama lê 15 valores, calcula o fatorial de cada um e em seguida apresental a somatória final desses fatoriais.
+// Descrição   : O porgrama lê 15 valores, calcula o fatorial de cada um e em seguida apresenta a somatória final desses fatoriais.
 // Autor(a)    : Elaine Cristina dos Santos
 // Data atual  : 15/09/2024
 Var

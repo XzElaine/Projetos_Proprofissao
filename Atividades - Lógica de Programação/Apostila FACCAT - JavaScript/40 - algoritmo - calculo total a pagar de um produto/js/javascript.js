@@ -1,7 +1,7 @@
 let descricao = prompt("Digite a descrição do produto: ")
 let quantidade = parseInt("Digite a quantidade adquirida: ")
 let preco_unitario = parseFloat("Digite o preço unitário do produto: ")
-total = quantidade * preco_unitario
+let total = quantidade * preco_unitario
 
 if (quantidade <= 5) {
     desconto = total * 0.02;
@@ -11,7 +11,7 @@ if (quantidade <= 5) {
     desconto = total * 0.05;
 }
 
-total_pagar = total - desconto;
+let total_pagar = total - desconto;
 
 alert("Total: R$ " + total.toFixed(2));
 alert("Desconto: R$ " + desconto.toFixed(2));

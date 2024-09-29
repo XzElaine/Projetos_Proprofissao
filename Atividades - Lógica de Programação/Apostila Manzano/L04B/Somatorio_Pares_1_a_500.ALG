@@ -2,7 +2,7 @@ Algoritmo "Somatorio_Pares_1_a_500"
 // Disciplina   : Lógica de Programação com JavaScript
 // Professor   : Jailson Costa dos Santos 
 // Descrição   : O programa calcula a somatória dos valores pares entre 1 e 500
-// Autor(a)    : Élaine Cristina dos Santos
+// Autor(a)    : Elaine Cristina dos Santos
 // Data atual  : 15/09/2024
 Var
 // Seção de Declarações das variáveis 

@@ -7,7 +7,7 @@ Algoritmo "produto_e_soma"
 
 Var
 // Seção de Declarações das variáveis
- valorA, valorB, valorC,, valorD, produto, soma: inteiro
+ valorA, valorB, valorC, valorD, produto, soma: inteiro
 
 Inicio
 // Seção de Comandos, procedimento, funções, operadores, etc... 

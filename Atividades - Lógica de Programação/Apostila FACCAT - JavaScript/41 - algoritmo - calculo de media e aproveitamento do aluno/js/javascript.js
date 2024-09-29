@@ -3,7 +3,7 @@ let nota2 = parseFloat(prompt("Digite a segunda nota: "))
 let nota3 = parseFloat(prompt("Digite a terceira nota: "))
 let media_exercicios = parseFloat(prompt("Digite a média dos exercícios: "))
 
-media_aproveitamento = (nota1 + nota2 * 2 + nota3 * 3 + media_exercicios) / 7
+let media_aproveitamento = (nota1 + nota2 * 2 + nota3 * 3 + media_exercicios) / 7
 
 if (media_aproveitamento >= 9.0){
     conceito = "A"
