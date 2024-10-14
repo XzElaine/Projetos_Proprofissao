@@ -1,4 +1,4 @@
-import Autenticacao from './components/autenticacao'
+import Autenticacao from './components/Autenticacao'
 import './App.css'
 
 function App() {

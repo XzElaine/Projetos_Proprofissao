@@ -1,5 +1,5 @@
 import React from 'react';
-import BotaoLogin from './components/login';
+import BotaoLogin from './components/Login';
 
 function App() {
   const usuarioLogado = true; // Altere para false para testar a ação do botão "Entrar"
