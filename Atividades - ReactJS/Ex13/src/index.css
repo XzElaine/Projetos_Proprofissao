@@ -1,0 +1,22 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  color: rgba(0, 0, 0, 0.87);
+}
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+h1 {
+  background-color: black;
+  color: white;
+  font-size: 40px;
+}
+
+li {
+  font-size: 25px;
+}
