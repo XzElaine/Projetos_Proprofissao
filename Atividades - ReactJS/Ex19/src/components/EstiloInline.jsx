@@ -1,19 +1,9 @@
 import React from 'react';
 
-const EstiloInline = () => {
-  const estilo = {
-    backgroundColor: '#FAACA8', 
-    margin: '20px',    
-    fontFamily:'Arial',         
-    padding: '10px',            
-    borderRadius: '8px',         
-    textAlign: 'center',         
-    color: '#000',         
-  };
-
+function EstiloInline (){
   return (
-    <div style={estilo}>
-      <h1>Tudo o que um sonho precisa para ser realizado é alguém que acredite que ele possa ser realizado</h1>
+    <div>
+      <h1 style={{backgroundColor: '#FAACA8',fontFamily:'Arial',padding: '10px',borderRadius: '8px',textAlign: 'center', color: '#000'}}>Tudo o que um sonho precisa para ser realizado é alguém que acredite que ele possa ser realizado</h1>
     </div>
   );
 };
