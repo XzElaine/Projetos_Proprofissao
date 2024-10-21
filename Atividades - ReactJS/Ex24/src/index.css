@@ -1,0 +1,28 @@
+:root {
+  font-family: Arial;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #580101;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+  
+}
+
+th {
+  font-size: 30px;
+  line-height: 1.1;
+  padding: 5px;
+  margin: 5px;
+  border: 2px solid white;
+}
+
+td {
+  font-size: 20px;
+  padding: 5px;
+  border: 2px solid white;
+}
