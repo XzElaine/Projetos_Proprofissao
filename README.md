@@ -5,6 +5,8 @@
 2. Interface de usuário - HTML e CSS: Nesta matéria, aprendemos tanto a parte teorica de HTML e CSS, como também produzimos 15 projetos diversos utilizando o conhecimento que aprendemos em sala de aula.
 3. Lógica de programação - Nesta matéria, aprendemos o báisco da lógica de programação utilizando o VisualG, utilizando as apostilas do Manzano e da Faccat e em seguida migramos para a parte "prática" ao utilizar o JavaScript refazendo os exércicios do VisualG, além de alguns projetos opcionais e exercícios feitos em sala de aula.
 4. ReactJS - Nesta matéria, aprendemos a utilizar o ReactJS junto ao Vite (ferramenta para fornecer o ambiente de desenvolvimento de forma mais rápida e enxuta), utilizando o W3schools vimos desde criação de um componente simples a utilização de If Ternários (dentre outos assuntos).
+5. Banco de dados - Nesta matéria aprendemos a utilizar o BrModelo onde realizamos a modelagem de banco de dados, My SQL Command Line e o My SQL Workbench para realizar a criação e as querys do banco de dados físico.
+6. Java - Nesta matéria, assim com a de lógica, em sala de aula refizemos os exercícios de apostila e também aprendemos POO (Programação Orientada a Objetos).
 
 ### Agradeço pela atenção de ter lido até aqui, gostou do que viu ? Que tal me conhecer pelo linkedin, acesse-o pelo link abaixo:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elaine-c-santos/)
